@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A52D0-5E0F-4FAD-8E83-EB3B415A907A}|WebAPI_Tutorial\\WebAPI_Tutorial.csproj|c:\\users\\hp\\desktop\\webapi_tutorial\\webapi_tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06A52D0-5E0F-4FAD-8E83-EB3B415A907A}|WebAPI_Tutorial\\WebAPI_Tutorial.csproj|solutionrelative:webapi_tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A52D0-5E0F-4FAD-8E83-EB3B415A907A}|WebAPI_Tutorial\\WebAPI_Tutorial.csproj|c:\\users\\hp\\desktop\\webapi_tutorial\\webapi_tutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D06A52D0-5E0F-4FAD-8E83-EB3B415A907A}|WebAPI_Tutorial\\WebAPI_Tutorial.csproj|solutionrelative:webapi_tutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A52D0-5E0F-4FAD-8E83-EB3B415A907A}|WebAPI_Tutorial\\WebAPI_Tutorial.csproj|c:\\users\\hp\\desktop\\webapi_tutorial\\webapi_tutorial\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06A52D0-5E0F-4FAD-8E83-EB3B415A907A}|WebAPI_Tutorial\\WebAPI_Tutorial.csproj|solutionrelative:webapi_tutorial\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06A52D0-5E0F-4FAD-8E83-EB3B415A907A}|WebAPI_Tutorial\\WebAPI_Tutorial.csproj|c:\\users\\hp\\desktop\\webapi_tutorial\\webapi_tutorial\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06A52D0-5E0F-4FAD-8E83-EB3B415A907A}|WebAPI_Tutorial\\WebAPI_Tutorial.csproj|solutionrelative:webapi_tutorial\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_Tutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\Program.cs*",
+              "RelativeToolTip": "WebAPI_Tutorial\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:02:05.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI_Tutorial\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\appsettings.json",
+              "RelativeToolTip": "WebAPI_Tutorial\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T10:01:31.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Villa.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\Models\\Villa.cs",
+              "RelativeDocumentMoniker": "WebAPI_Tutorial\\Models\\Villa.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\Models\\Villa.cs",
+              "RelativeToolTip": "WebAPI_Tutorial\\Models\\Villa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T09:47:33.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VillaAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\Controllers\\VillaAPIController.cs",
+              "RelativeDocumentMoniker": "WebAPI_Tutorial\\Controllers\\VillaAPIController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\Controllers\\VillaAPIController.cs",
+              "RelativeToolTip": "WebAPI_Tutorial\\Controllers\\VillaAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T09:39:43.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 420,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
