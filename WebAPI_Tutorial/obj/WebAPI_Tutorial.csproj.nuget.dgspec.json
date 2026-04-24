@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\WebAPI_Tutorial.csproj": {}
+    "C:\\Users\\HP\\Desktop\\VillaAPI\\WebAPI_Tutorial\\WebAPI_Tutorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\WebAPI_Tutorial.csproj": {
+    "C:\\Users\\HP\\Desktop\\VillaAPI\\WebAPI_Tutorial\\WebAPI_Tutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\WebAPI_Tutorial.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\VillaAPI\\WebAPI_Tutorial\\WebAPI_Tutorial.csproj",
         "projectName": "WebAPI_Tutorial",
-        "projectPath": "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\WebAPI_Tutorial.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\VillaAPI\\WebAPI_Tutorial\\WebAPI_Tutorial.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\WebAPI_Tutorial\\WebAPI_Tutorial\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\VillaAPI\\WebAPI_Tutorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,6 +58,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
